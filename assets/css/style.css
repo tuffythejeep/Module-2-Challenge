@@ -58,19 +58,18 @@ p {
 
 @media screen and (max-width: 992px) {
     header {
-      background: #772014;
+    background: #772014;
     }
   }
 
-  
 @media screen and (max-width: 768px) {
     nav {
-      background-color: #BB8588;
+    background-color: #BB8588;
     }
  }
   
  @media screen and (max-width: 576px) {
     .sample-img {
-      background-color: #8AC4FF;
+    background-color: #8AC4FF;
     }
  }

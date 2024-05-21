@@ -5,7 +5,7 @@
 }
 
 body {
-    background-color: hwb(207 85% 4% / 0.904);
+    background-color: #e9e6f3e7;
 }
 
 #header {
@@ -25,7 +25,7 @@ h1 {
     margin-right: 20px;
     float: right;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    font-size: 20px;
+    font-size: 30px;
     font-weight: normal;
 }
 
@@ -39,10 +39,38 @@ li {
 }
 
 a {
-    color: #ffffff;
+    color: #3dabaf;
     text-decoration: none;
 }
 
 p {
     font-size: 16px;
 }
+
+#Top-Image {
+    height: 175px;
+    width: 100%;
+    margin-bottom: 25px;
+    background-image: url("../images/fence.jpg");
+    background-size: cover;
+    background-position: center;
+
+
+@media screen and (max-width: 992px) {
+    header {
+      background: #772014;
+    }
+  }
+
+  
+@media screen and (max-width: 768px) {
+    nav {
+      background-color: #BB8588;
+    }
+ }
+  
+ @media screen and (max-width: 576px) {
+    .sample-img {
+      background-color: #8AC4FF;
+    }
+ }

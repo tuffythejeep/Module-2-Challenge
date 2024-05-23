@@ -89,7 +89,7 @@ p {
 main {
   display: flex;
   flex-wrap: wrap
-  margin-top: 2%;
+  margin-top 2%;
 }
 
 #pictures {
@@ -125,7 +125,7 @@ main {
 }
 
 .footer {
-    padding: 30px;
+    padding: 20px;
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: left;

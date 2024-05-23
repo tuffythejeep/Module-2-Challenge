@@ -152,7 +152,8 @@ main {
 }
 
 @media screen and (max-width: 576px) {
-    .sample-img {
+    .card {
+      width: auto;
     background-color: #8AC4FF;
     }
 }

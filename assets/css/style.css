@@ -9,6 +9,11 @@ body {
     background-color: #e9e6f3e7;
 }
 
+main {
+  display: flex;
+  flex-wrap: wrap;
+  margin-top: 2%;
+}
 
 #header {
     padding: 20px;
@@ -124,19 +129,19 @@ p {
     color: #0b4e75;
 
 @media screen and (max-width: 992px) {
-    header {
+  header {
     background: #772014;
-    }
   }
+}
 
 @media screen and (max-width: 768px) {
-    nav {
+  nav {
     background-color: #BB8588;
-    }
- }
+  }
+}
 
- @media screen and (max-width: 576px) {
+@media screen and (max-width: 576px) {
     .sample-img {
     background-color: #8AC4FF;
     }
- }
+}

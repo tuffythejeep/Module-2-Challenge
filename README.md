@@ -14,6 +14,7 @@ In order to have the webpage meet accessibility standards, I copied the source c
 You can find my deployed page here:
 
 - <https://tuffythejeep.github.io/Module-2-Challenge/>
+
 and my repository page here:
 - <https://github.com/tuffythejeep/Module-2-Challenge>
 

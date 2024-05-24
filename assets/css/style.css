@@ -12,6 +12,8 @@ nav {
   margin-top: 2%;
 }
 
+/* Created this ID for the Header*/
+/* I like how the name and items to the right remain spaced out */
 #header {
     display: flex;
     justify-content: space-between;
@@ -21,6 +23,7 @@ nav {
     color: #3dabaf;
 }
 
+/* Wanted these words to be larger than others*/
 h1 {
     display: inline-block;
     font-size: 48px;
@@ -54,6 +57,7 @@ p {
     margin-left: 20%;
 }
 
+/* I went to the internet to find this fence pic. */
 #Top-Image {
     height: 175px;
     width: 100%;
@@ -93,6 +97,7 @@ main {
   width: 90%;
 }
 
+/* I added alt attributes to all my pictures, too */
 #pictures {
     flex: 1 0 200px;
     margin-right: 20px;
@@ -124,6 +129,7 @@ main {
   flex: 2 1 200px;
 }
 
+/* Most of my footer items are hyperlinked */
 .footer {
     padding: 20px;
     clear: both;
@@ -134,6 +140,7 @@ main {
     color: #0b4e75;
 }
 
+/* Changes colors at least, when the screen size diminishes */
 @media screen and (max-width: 992px) {
   .card {
     width: 50%;

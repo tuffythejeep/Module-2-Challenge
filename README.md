@@ -11,15 +11,15 @@ In order to have the webpage meet accessibility standards, I copied the source c
 - I ensured my heading attributes fall in sequential order
 - Lastly, I gave my title element a concise, descriptive title
 
-You can find my deployed page here: 
-* https://tuffythejeep.github.io/Module-2-Challenge/ 
+You can find my deployed page here:
+
+- <https://tuffythejeep.github.io/Module-2-Challenge/>
 and my repository page here:
-* https://github.com/tuffythejeep/Module-2-Challenge
+- <https://github.com/tuffythejeep/Module-2-Challenge>
 
 Here is a picture of my deployed page:
 
 ![image](https://github.com/tuffythejeep/Module-2-Challenge/assets/167649421/7747266d-62c0-4da8-8b0c-99e7a8638048)
-
 
 ## Installation
 
@@ -36,8 +36,9 @@ I used Chrome console (inspect) to ensure my edits, adjustments, changes, and tw
 Credit to Jasper Garcia, my son, who helped me troubleshoot when I was stuck - however, I wrote all my own HTLM and CSS. I was able to ask him questions to clarify, and he promted and challenged me to take breaks and allow my mind to process the solutions which were brewing.
 
 When stuck, I referenced the following sites:
-* For FREE Images I used in this REPO: https://www.pexels.com/search/surf/
-* For learning how to properly link and hyperlink items within my HTML: https://www.w3schools.com/html/html_links.asp
+
+- For FREE Images I used in this REPO: <https://www.pexels.com/search/surf/>
+- For learning how to properly link and hyperlink items within my HTML: <https://www.w3schools.com/html/html_links.asp>
 
 I referenced code (HTML and CSS) from the UT provided lessons, however, I wrote all my own changes, edits, tweaks, and versions of my webpage, html, and css.
 

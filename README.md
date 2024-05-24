@@ -4,12 +4,12 @@
 
 This repository contains my solution for the Module 2 Challenge.
 
-In order to have the webpage meet accessibility standards, I copied the source code to this repo, and then:
+In order for my webpage to show what I can do, I used HTML and CSS to:
 
-- I added semantic HTML elements, which follow a logical structure - independent of styling and positioning
-- I added alt attributes to the icons and images
-- I ensured my heading attributes fall in sequential order
-- Lastly, I gave my title element a concise, descriptive title
+- Showcase usable links which scroll the UI to the corresponding sections
+- I added alt attributes my icons and images
+    - And, I made my first image clickable, which launches my Module 1 - Challenge webpage, my first deployed  project
+- I used display flex and media screen, but they are not working for me 100%
 
 You can find my deployed page here:
 

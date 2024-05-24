@@ -1,8 +1,8 @@
-# Module 1 - Challenge
+# Module 2 - Challenge
 
 ## Description
 
-This repository contains my solution for the Module 1 Challenge.
+This repository contains my solution for the Module 2 Challenge.
 
 In order to have the webpage meet accessibility standards, I copied the source code to this repo, and then:
 
@@ -10,6 +10,8 @@ In order to have the webpage meet accessibility standards, I copied the source c
 - I added alt attributes to the icons and images
 - I ensured my heading attributes fall in sequential order
 - Lastly, I gave my title element a concise, descriptive title
+
+You can find my deployed page here: https://tuffythejeep.github.io/Module-2-Challenge/
 
 - ![image](https://github.com/tuffythejeep/Module-1-Challenge/assets/167649421/39291f61-dc78-406b-90eb-adea8ce41c2b)
 
@@ -27,11 +29,15 @@ I used Chrome console (inspect) to ensure my edits, adjustments, changes, and tw
 
 Credit to Jasper Garcia, my son, who helped me troubleshoot when I was stuck - however, I wrote all my own HTLM and CSS. I was able to ask him questions to clarify, and he promted and challenged me to take breaks and allow my mind to process the solutions which were brewing.
 
-I copied the source code (the starting HTML and CSS) from the UT provided lessons, however, I wrote all my own changes, edits, tweaks, and versions of my webpage, html, and css.
+When stuck, I referenced the following sites:
+* For FREE Images I used in this REPO: https://www.pexels.com/search/surf/
+* For learning how to properly link and hyperlink items within my HTML: https://www.w3schools.com/html/html_links.asp
+
+I referenced code (HTML and CSS) from the UT provided lessons, however, I wrote all my own changes, edits, tweaks, and versions of my webpage, html, and css.
 
 No outside sources of text, html, or css were copied into my work.
 
-I commented and committed to my repo heavily. Initially I copied my index.html and style.css to a non-root folder, which I had to copy to the root to get the webpage to render properly.
+I commented and committed to my repo heavily.
 
 I was able to deploy without issue, once I copied all htlm and css files properly.
 

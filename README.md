@@ -7,7 +7,7 @@ This repository contains my solution for the Module 2 Challenge.
 In order for my webpage to show what I can do, I used HTML and CSS to:
 
 - Showcase usable links which scroll the UI to the corresponding sections
-- I added alt attributes my icons and images
+- I added alt attributes to my images
     - And, I made my first image clickable, which launches my Module 1 - Challenge webpage, my first deployed  project
 - I used display flex and media screen, but they are not working for me 100%
 

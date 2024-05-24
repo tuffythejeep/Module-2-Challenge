@@ -94,6 +94,7 @@ main {
 }
 
 #pictures {
+    flex: 1 0 200px;
     margin-right: 20px;
     padding: 20px;
     clear: both;
@@ -120,6 +121,7 @@ main {
 .card img {
   width: 200px;
   height: 150px;
+  flex: 2 1 200px;
 }
 
 .footer {

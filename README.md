@@ -13,7 +13,8 @@ In order to have the webpage meet accessibility standards, I copied the source c
 
 You can find my deployed page here: https://tuffythejeep.github.io/Module-2-Challenge/
 
-- ![image](https://github.com/tuffythejeep/Module-1-Challenge/assets/167649421/39291f61-dc78-406b-90eb-adea8ce41c2b)
+![image](https://github.com/tuffythejeep/Module-2-Challenge/assets/167649421/7747266d-62c0-4da8-8b0c-99e7a8638048)
+
 
 ## Installation
 

@@ -11,7 +11,12 @@ In order to have the webpage meet accessibility standards, I copied the source c
 - I ensured my heading attributes fall in sequential order
 - Lastly, I gave my title element a concise, descriptive title
 
-You can find my deployed page here: https://tuffythejeep.github.io/Module-2-Challenge/
+You can find my deployed page here: 
+* https://tuffythejeep.github.io/Module-2-Challenge/ 
+and my repository page here:
+* https://github.com/tuffythejeep/Module-2-Challenge
+
+Here is a picture of my deployed page:
 
 ![image](https://github.com/tuffythejeep/Module-2-Challenge/assets/167649421/7747266d-62c0-4da8-8b0c-99e7a8638048)
 

@@ -137,7 +137,7 @@ main {
     width: 50%;
   }
   header {
-    background: #772014;
+    background: hsl(27, 98%, 47%);
   }
 }
 
@@ -151,8 +151,10 @@ main {
 }
 
 @media screen and (max-width: 576px) {
-    .card {
-      width: auto;
+  .card {
+     width: auto;
+  }
+   header {
     background-color: #8AC4FF;
-    }
+  }
 }

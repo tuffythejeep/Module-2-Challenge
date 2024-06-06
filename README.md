@@ -2,7 +2,7 @@
 
 ## Description
 
-This repository contains my solution for the Module 2 Challenge.
+This repository contains my solution for the Module 2 Challenge - Portfolio Page.
 
 In order for my webpage to show what I can do, I used HTML and CSS to:
 
